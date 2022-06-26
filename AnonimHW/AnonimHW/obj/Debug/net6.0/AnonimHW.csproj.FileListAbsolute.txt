@@ -1,0 +1,15 @@
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.csproj.AssemblyReference.cache
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.AssemblyInfoInputs.cache
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.AssemblyInfo.cs
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.csproj.CoreCompileInputs.cache
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\bin\Debug\net6.0\AnonimHW.exe
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\bin\Debug\net6.0\AnonimHW.deps.json
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\bin\Debug\net6.0\AnonimHW.runtimeconfig.json
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\bin\Debug\net6.0\AnonimHW.dll
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\bin\Debug\net6.0\AnonimHW.pdb
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.dll
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\refint\AnonimHW.dll
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.pdb
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\AnonimHW.genruntimeconfig.cache
+C:\Users\esto0\source\repos\AnonimHW\AnonimHW\obj\Debug\net6.0\ref\AnonimHW.dll
