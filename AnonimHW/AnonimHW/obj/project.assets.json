@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esto0\\source\\repos\\AnonimHW\\AnonimHW\\AnonimHW.csproj",
+      "projectUniqueName": "C:\\Users\\esto0\\Documents\\AnonymousHW\\AnonimHW\\AnonimHW\\AnonimHW.csproj",
       "projectName": "AnonimHW",
-      "projectPath": "C:\\Users\\esto0\\source\\repos\\AnonimHW\\AnonimHW\\AnonimHW.csproj",
+      "projectPath": "C:\\Users\\esto0\\Documents\\AnonymousHW\\AnonimHW\\AnonimHW\\AnonimHW.csproj",
       "packagesPath": "C:\\Users\\esto0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esto0\\source\\repos\\AnonimHW\\AnonimHW\\obj\\",
+      "outputPath": "C:\\Users\\esto0\\Documents\\AnonymousHW\\AnonimHW\\AnonimHW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esto0\\AppData\\Roaming\\NuGet\\NuGet.Config",
